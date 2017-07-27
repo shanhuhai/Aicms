@@ -1,0 +1,4 @@
+vendor
+.idea
+*.log
+config/database.php
